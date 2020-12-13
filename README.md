@@ -14,8 +14,8 @@ I would like to incorporate more CSS in future portifolios to make them more use
 
 ###### Screenshots & Link to site
 ![Screenshot #1](/Images/Screenshot1.png)
-![Screenshot #2](/Images/Screenshot 2020-12-13 at 17.09.23.png")
-![Screenshot #3](/Images/Screenshot 2020-12-13 at 17.09.30.png")
-![Screenshot #4](/Images/Screenshot 2020-12-13 at 17.09.39.png")
+![Screenshot #2](/Images/Screenshot2.png")
+![Screenshot #3](/Images/Screenshot3.png")
+![Screenshot #4](/Images/Screenshot4.png")
 
 https://gurvinderdehl.github.io/Homework-2-Responsive-Portifolio/.
