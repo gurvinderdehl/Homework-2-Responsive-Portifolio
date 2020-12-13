@@ -13,7 +13,7 @@ I learned how to use Bootstrap in my work, more specifically "the grid system". 
 I would like to incorporate more CSS in future portifolios to make them more user friendly. On top of this when I'm more comforable with the "grid system" I would like to experiment with it more, to see what else I can do. 
 
 ###### Screenshots & Link to site
-![Screenshot #1](Images/Screenshot 2020-12-13 at 17.09.09.png)
+![Screenshot #1](/Images/Screenshot1.png)
 ![Screenshot #2](/Images/Screenshot 2020-12-13 at 17.09.23.png")
 ![Screenshot #3](/Images/Screenshot 2020-12-13 at 17.09.30.png")
 ![Screenshot #4](/Images/Screenshot 2020-12-13 at 17.09.39.png")
